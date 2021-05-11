@@ -1,7 +1,7 @@
 ### Hello my fellow humans 😎
 
-- 💬My name is André
-- I am 17 years old
+- 💬 My name is André
+- 🎈 I am 17 years old
 
 
 <!--
