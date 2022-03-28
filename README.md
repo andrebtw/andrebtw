@@ -1,7 +1,7 @@
 ### Hello my fellow humans 😎
 
 - 💬 My name is André
-- 🎈 I am 17 years old
+- 🎈 I am 18 years old
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebtw)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebtw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
