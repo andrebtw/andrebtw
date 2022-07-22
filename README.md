@@ -1,4 +1,4 @@
-### Hello my fellow humans 😎
+### Hello humans 😎
 
 - 💬 My name is André
 - 🎈 I am 18 years old
