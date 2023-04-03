@@ -1,8 +1,8 @@
 ### Hello humans 😎
 
 - 💬 My name is André
-- 🎈 I am 18 years old
-- 😧 Gotta get better at commenting my code !
+- 🎈 I am 19 years old
+- ✋ Coding enjoyer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebtw&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
