@@ -1,7 +1,7 @@
 ### sup ⭐
 
 - 💬 My name is André
-- 🎈 I am 21 years old
+- 🎈 I am 22 years old
 - ✋ Coding enthusiast
 - 👽 Tekno enjoyer
 
